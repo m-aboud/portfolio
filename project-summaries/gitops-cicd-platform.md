@@ -25,6 +25,6 @@ A complete, opinionated reference platform showing how modern teams ship to prod
 Terraform 1.9+ · AWS EKS · Argo CD 2.13+ · Argo Rollouts · Kustomize · Kyverno · External Secrets Operator · Cosign (Sigstore) · Trivy · Syft · GitHub Actions · Renovate · pre-commit · FastAPI (sample app)
 
 ## Links
-- Code: [github.com/mohammedabood/gitops-cicd-platform](https://github.com/mohammedabood/gitops-cicd-platform)
-- ADRs: [docs/adr/](https://github.com/mohammedabood/gitops-cicd-platform/tree/main/docs/adr)
-- Runbooks: [docs/runbooks/](https://github.com/mohammedabood/gitops-cicd-platform/tree/main/docs/runbooks)
+- Code: [github.com/m-aboud/gitops-cicd-platform](https://github.com/m-aboud/gitops-cicd-platform)
+- ADRs: [docs/adr/](https://github.com/m-aboud/gitops-cicd-platform/tree/main/docs/adr)
+- Runbooks: [docs/runbooks/](https://github.com/m-aboud/gitops-cicd-platform/tree/main/docs/runbooks)
