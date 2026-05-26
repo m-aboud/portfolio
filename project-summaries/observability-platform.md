@@ -24,4 +24,4 @@ CI validates `promtool`, `amtool`, and compose syntax on every PR.
 Docker Compose · Prometheus · Grafana · Loki · Promtail · Alertmanager · Node Exporter · cAdvisor · GitHub Actions
 
 ## Links
-- Code: [github.com/mohammedabood/observability-platform](https://github.com/mohammedabood/observability-platform)
+- Code: [github.com/m-aboud/observability-platform](https://github.com/m-aboud/observability-platform)
