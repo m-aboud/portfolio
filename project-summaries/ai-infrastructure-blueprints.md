@@ -21,4 +21,4 @@ A repository of planning blueprints:
 Markdown · Mermaid · Kubernetes (manifests) · NVIDIA GPU Operator / DCGM concepts
 
 ## Links
-- Code: [github.com/mohammedabood/ai-infrastructure-blueprints](https://github.com/mohammedabood/ai-infrastructure-blueprints)
+- Code: [github.com/m-aboud/ai-infrastructure-blueprints](https://github.com/m-aboud/ai-infrastructure-blueprints)
