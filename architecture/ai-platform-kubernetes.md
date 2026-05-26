@@ -1,6 +1,6 @@
 # AI Platform on Kubernetes — Reference Architecture
 
-**Author:** Mohammed Abood
+**Author:** Mohammed Aboud
 **Version:** 1.0
 **Status:** Reference / illustrative
 
