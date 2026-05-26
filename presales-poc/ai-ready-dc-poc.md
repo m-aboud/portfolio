@@ -45,7 +45,7 @@ Before any architecture is drawn, get explicit answers to:
 A 6–10 week PoC scope to **prove the path** before committing to procurement.
 
 ### Phase 1 — Architecture & sizing (weeks 1–3)
-- Refined workload sizing using [GPU cluster sizing](https://github.com/mohammedabood/ai-infrastructure-blueprints/blob/main/blueprints/gpu-cluster-sizing.md) methodology
+- Refined workload sizing using [GPU cluster sizing](https://github.com/m-aboud/ai-infrastructure-blueprints/blob/main/blueprints/gpu-cluster-sizing.md) methodology
 - Power / cooling fit assessment against existing DC (or new build option)
 - Network fabric option paper (RoCEv2 vs IB)
 - Storage tier strategy
@@ -62,7 +62,7 @@ A 6–10 week PoC scope to **prove the path** before committing to procurement.
 ### Phase 3 — Operating model & readiness (weeks 8–10)
 - Operating model recommendation (in-house, managed, hybrid)
 - Skills gap & training plan
-- Runbook scaffold (using [AI-DC readiness checklist](https://github.com/mohammedabood/ai-infrastructure-blueprints/blob/main/checklists/ai-dc-readiness.md))
+- Runbook scaffold (using [AI-DC readiness checklist](https://github.com/m-aboud/ai-infrastructure-blueprints/blob/main/checklists/ai-dc-readiness.md))
 - Procurement roadmap with optionality
 - **Deliverable:** Final presentation to executive sponsor with go/no-go recommendation
 
