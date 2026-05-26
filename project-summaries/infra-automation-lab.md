@@ -21,4 +21,4 @@ A lab repo demonstrating production-style automation:
 Terraform 1.9+ · Ansible 2.16+ · Kubernetes 1.30+ · Docker · Bash · GitHub Actions
 
 ## Links
-- Code: [github.com/mohammedabood/infra-automation-lab](https://github.com/mohammedabood/infra-automation-lab)
+- Code: [github.com/m-aboud/infra-automation-lab](https://github.com/m-aboud/infra-automation-lab)
