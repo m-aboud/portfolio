@@ -20,4 +20,4 @@ Designed to be runnable on a laptop, in CI, or wrapped in a future web UI.
 Python 3.10+ · argparse CLI · dataclasses · pytest · ruff · GitHub Actions (multi-Python matrix)
 
 ## Links
-- Code: [github.com/mohammedabood/datacenter-ops-toolkit](https://github.com/mohammedabood/datacenter-ops-toolkit)
+- Code: [github.com/m-aboud/datacenter-ops-toolkit](https://github.com/m-aboud/datacenter-ops-toolkit)
