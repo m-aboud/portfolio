@@ -59,6 +59,7 @@ One-page writeups (problem → solution → impact → stack) for each featured 
 
 | Project | One-pager |
 |---|---|
+| GitOps CI/CD Platform | [project-summaries/gitops-cicd-platform.md](project-summaries/gitops-cicd-platform.md) |
 | AI Job Agent | [project-summaries/ai-job-agent.md](project-summaries/ai-job-agent.md) |
 | Data Center Ops Toolkit | [project-summaries/datacenter-ops-toolkit.md](project-summaries/datacenter-ops-toolkit.md) |
 | Observability Platform | [project-summaries/observability-platform.md](project-summaries/observability-platform.md) |
