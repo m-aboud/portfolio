@@ -1,6 +1,6 @@
 # Hybrid Cloud Modernisation — Reference Architecture
 
-**Author:** Mohammed Abood
+**Author:** Mohammed Aboud
 **Version:** 1.0
 **Status:** Reference / illustrative
 
@@ -101,7 +101,7 @@ flowchart TB
 - Data lake on cloud object storage; on-prem batch jobs egress via dedicated lane
 
 ### 5.6 Observability
-- Prometheus + Grafana + Loki + Alertmanager (see [observability-platform](https://github.com/mohammedabood/observability-platform))
+- Prometheus + Grafana + Loki + Alertmanager (see [observability-platform](https://github.com/m-aboud/observability-platform))
 - Federated Prometheus between on-prem and cloud collectors
 - SLOs defined per service; error-budget burn alerts vs hard thresholds
 - Centralised log retention with hot/warm/cold tiers
