@@ -1,6 +1,6 @@
 # Observability Baseline — Reference Architecture
 
-**Author:** Mohammed Abood
+**Author:** Mohammed Aboud
 **Version:** 1.0
 **Status:** Reference / illustrative
 
@@ -123,7 +123,7 @@ Avoid the trap of "one dashboard per metric." Build dashboards around **incident
 
 ## 8. Implementation reference
 
-See [`observability-platform`](https://github.com/mohammedabood/observability-platform) for a runnable docker-compose stack that implements:
+See [`observability-platform`](https://github.com/m-aboud/observability-platform) for a runnable docker-compose stack that implements:
 
 - Prometheus + Alertmanager + Grafana + Loki + Promtail + Node Exporter + cAdvisor
 - 9 alert rules covering hosts and containers
