@@ -23,4 +23,4 @@ Runs containerised; scheduled via cron or compose loop.
 Python 3.11 · Playwright · Pydantic · structlog · Jinja2 · WeasyPrint · SQLite · OpenAI/Anthropic SDKs · httpx · Docker · GitHub Actions
 
 ## Links
-- Code: [github.com/mohammedabood/ai-job-agent](https://github.com/mohammedabood/ai-job-agent)
+- Code: [github.com/m-aboud/ai-job-agent](https://github.com/m-aboud/ai-job-agent)
