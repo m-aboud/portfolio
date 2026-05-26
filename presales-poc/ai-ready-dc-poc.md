@@ -101,4 +101,4 @@ This PoC is structured so that **the customer wins regardless of what they buy f
 
 ---
 
-*Aligned to artefacts in [ai-infrastructure-blueprints](https://github.com/mohammedabood/ai-infrastructure-blueprints) and [datacenter-ops-toolkit](https://github.com/mohammedabood/datacenter-ops-toolkit).*
+*Aligned to artefacts in [ai-infrastructure-blueprints](https://github.com/m-aboud/ai-infrastructure-blueprints) and [datacenter-ops-toolkit](https://github.com/m-aboud/datacenter-ops-toolkit).*
