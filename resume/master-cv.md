@@ -63,7 +63,6 @@ Senior architect bridging **infrastructure reliability, business transformation,
 
 ## Education
 
-- MSc Computer Science, Heriot-Watt University, 2027
 - Bachelor of Computer Engineering, Washington A.G. University, 2010
 
 
@@ -72,12 +71,6 @@ Senior architect bridging **infrastructure reliability, business transformation,
 ## Certifications
 
 - **PMP** — Project Management Professional
-- **CISM** — Certified Information Security Manager
-- **CISSP** — Certified Information Systems Security Professional
-- **AWS** — Solutions Architect
-- **Microsoft Azure** — DevOps Engineer Expert
-- **HashiCorp** — Terraform Associate
-- **CNCF** — Certified Kubernetes Administrator
 
 ---
 
