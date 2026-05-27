@@ -1,7 +1,7 @@
 # Mohammed Aboud
 **Senior Infrastructure & Cloud Architect · AI Infrastructure · Data Center Engineering · DevOps · Kubernetes · PMP**
 
-Saudi Arabia · [linkedin.com/in/mohammed-a-a209001aa](https://linkedin.com/in/mohammed-a-a209001aa) · mohd.aboud@outlook.com · [github.com/m-abood](https://github.com/m-abood)
+Saudi Arabia · [linkedin.com/in/mohammed-a-a209001aa](https://linkedin.com/in/mohammed-a-a209001aa) · mohd.aboud@outlook.com · [github.com/m-aboud](https://github.com/m-aboud)
 
 ---
 
