@@ -34,8 +34,6 @@ Senior architect bridging **infrastructure reliability, business transformation,
 - Reduced incident recurrence through SLO-driven observability and structured RCA practice
 - Supported presales discovery, demos, PoCs, and customer-facing solution architecture
 
-**Stack:** AWS, Azure, Kubernetes, Terraform, Ansible, Prometheus, Grafana, Loki, Cisco/Fortinet
-
 ### IT Lead
 **Unifonic** · KSA · 2019-2022
 
@@ -48,7 +46,7 @@ Senior architect bridging **infrastructure reliability, business transformation,
 - Landing Zone Governance: Automated AWS + GCP landing zones, cutting new BU onboarding time from 3 months to 3 weeks.
 - Application Modernization: Transformed monolith apps to microservices (EKS + GKE), boosting uptime to 99.95%.
 
-
+**Stack:** AWS, Azure, Kubernetes, Terraform, Ansible, Prometheus, Grafana, Loki, Cisco/Fortinet
 ---
 
 ## Featured Projects
