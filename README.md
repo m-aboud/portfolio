@@ -20,7 +20,6 @@
 
 ```text
 portfolio/
-├── resume/                  # Master CV (Markdown + PDF)
 ├── architecture/            # Solution architecture documents
 ├── project-summaries/       # One-page writeups per featured project
 ├── presales-poc/            # Presales PoC structures & demo scenarios
