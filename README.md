@@ -16,11 +16,31 @@
 
 ---
 
+## 🌟 OpenClaw Enterprise Platform — Unifying Architecture Portfolio
+
+This portfolio now centers around the [**OpenClaw Enterprise Platform**](https://github.com/m-aboud/openclaw-enterprise-platform), a master repository that unifies all OpenClaw projects into a single, cohesive enterprise solution. It serves as the central hub for architecture, documentation, governance, and project overviews, demonstrating a comprehensive approach to building and managing cloud-native platforms at scale.
+
+## Interview-Ready Summary
+
+This platform demonstrates expertise in:
+- **Platform Engineering**: Designing and building internal developer platforms that accelerate delivery.
+- **Cloud Architecture**: Multi-cloud designs, hybrid deployments, and highly available architectures.
+- **DevSecOps**: Integrating security throughout the development and operations lifecycle.
+- **GitOps**: Declarative infrastructure and application management using Git.
+- **Zero Trust**: Implementing robust security models based on explicit trust verification.
+- **Kubernetes Operations**: Managing complex Kubernetes environments at scale.
+- **SRE**: Applying Site Reliability Engineering principles for operational excellence.
+- **AI Infrastructure**: Building and managing the underlying infrastructure for AI/ML workloads.
+- **Agentic AI**: Developing and integrating autonomous AI agents for various platform functions.
+- **Enterprise Governance**: Establishing policies, audits, and controls for large-scale organizations.
+
+---
+
 ## 📚 What's Inside
 
 ```text
 portfolio/
-├── architecture/            # Solution architecture documents
+├── architecture/            # Solution architecture documents (including Enterprise Platform Architecture)
 ├── project-summaries/       # One-page writeups per featured project
 ├── presales-poc/            # Presales PoC structures & demo scenarios
 ├── diagrams/                # Mermaid + drawio sources
@@ -29,7 +49,7 @@ portfolio/
 
 ## 🎯 Positioning
 
-This portfolio supports applications for:
+This portfolio now comprehensively supports applications for leadership and senior roles focusing on enterprise-scale cloud, AI, and platform initiatives:
 
 - Senior Solution Architect
 - Infrastructure Solution Architect
@@ -38,11 +58,14 @@ This portfolio supports applications for:
 - Technical Presales Consultant
 - AI Infrastructure Architect
 - Platform Engineering Lead
+- Enterprise Architect
+- Principal SRE
 
 ## 🏗️ Architecture Samples
 
 | Document | Theme |
 |---|---|
+| [**OpenClaw Enterprise Platform Architecture**](https://github.com/m-aboud/openclaw-enterprise-platform/blob/main/docs/architecture/platform-architecture.md) | Unifying architecture for all OpenClaw projects |
 | [Hybrid Cloud Modernisation](architecture/hybrid-cloud-modernisation.md) | Enterprise hybrid cloud target state |
 | [AI Platform on Kubernetes](architecture/ai-platform-kubernetes.md) | Multi-tenant GPU platform reference |
 | [Observability Baseline](architecture/observability-baseline.md) | SLO-driven monitoring stack |
@@ -53,6 +76,7 @@ One-page writeups (problem → solution → impact → stack) for each featured 
 
 | Project | One-pager |
 |---|---|
+| **OpenClaw Enterprise Platform** | [project-summaries/openclaw-enterprise-platform.md](project-summaries/openclaw-enterprise-platform.md) |
 | GitOps CI/CD Platform | [project-summaries/gitops-cicd-platform.md](project-summaries/gitops-cicd-platform.md) |
 | AI Job Agent | [project-summaries/ai-job-agent.md](project-summaries/ai-job-agent.md) |
 | Data Center Ops Toolkit | [project-summaries/datacenter-ops-toolkit.md](project-summaries/datacenter-ops-toolkit.md) |
